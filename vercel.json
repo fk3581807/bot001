@@ -6,7 +6,6 @@
         "browserslist": "defaults"
       }
     }
-  ],
   "routes": [
     {
       "src": "/",
