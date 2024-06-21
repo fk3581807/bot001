@@ -2,7 +2,7 @@
   "version": 2,
   "builds": [
     {
-      "src": ".",
+      "src": "/bot.py",
       "use": "@vercel/build-utils/babel",
       "config": {
         "browserslist": "defaults"
